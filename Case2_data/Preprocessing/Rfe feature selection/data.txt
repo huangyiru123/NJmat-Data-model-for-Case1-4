@@ -1,0 +1,25 @@
+Whether the feature is selected:
+True False False False False True True False False False False False False False False False False False False False False False False False True False True False False True True True False True False False False False False True False False False False False False False True True True False False False True True True False False False False False False False True False False False True False True False True 
+Acquired data feature size:
+(640,20)
+S_rfe(Final feature):
+A1 NumberofProtons
+X3 NumberofProtons
+X4 NumberofProtons
+A1 Specific Heat
+B Specific Heat
+X3 Specific Heat
+X4 Specific Heat
+Ion Specific Heat
+A2 Density
+Ion Density
+Ion AtomicRadius
+A1 Firstionization
+A2 Firstionization
+X3 Firstionization
+X4 Firstionization
+Ion Firstionization
+Ion AtomicMass
+X1 Melting Point
+X3 Melting Point
+Ion Melting Point
