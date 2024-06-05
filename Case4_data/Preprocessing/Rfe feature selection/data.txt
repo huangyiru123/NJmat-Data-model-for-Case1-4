@@ -1,0 +1,24 @@
+Whether the feature is selected:
+True True True True True True True True True True True True True True True True True True True 
+Acquired data feature size:
+(103,19)
+S_rfe(Final feature):
+organic_data1_rdkit_Chi1v
+organic_data1_rdkit_MinAbsEStateIndex
+organic_data1_rdkit_MinEStateIndex
+organic_data1_rdkit_NumValenceElectrons
+organic_data1_rdkit_SlogP_VSA2
+organic_data1_rdkit_qed
+organic_data2_rdkit_BalabanJ
+organic_data2_rdkit_Chi2n
+organic_data2_rdkit_FpDensityMorgan1
+organic_data2_rdkit_MinAbsPartialCharge
+organic_data2_rdkit_MolLogP
+organic_data2_rdkit_VSA_EState7
+organic_data3_rdkit_Chi0
+organic_data3_rdkit_MaxEStateIndex
+organic_data3_rdkit_MinEStateIndex
+Time
+ratioA
+ratioC
+ratioD
